@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ex1_6</string>
+    <string name="num1">数値１：</string>
+    <string name="num2">数値２：</string>
+    <string name="ans_str">計算結果：</string>
+    <string name="del_str">消去</string>
+    <string name="alldell_str">全消去</string>
+
+</resources>

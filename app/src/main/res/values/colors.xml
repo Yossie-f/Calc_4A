@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorYellow">#EADF83</color>
+    <color name="colorRed">#EC5449</color>
+    <color name="colorBlue">#77B8EC</color>
+    <color name="colorSalmon">#E17979</color>
+    <color name="colorTeal">#79CCC4</color>
+    <color name="colorPurple">#A2A2F6</color>
+    <color name="colorGray">#7C7C81</color>
+
+    <color name="colorYellowDark">#99EADF83</color>
+    <color name="colorRedDark">#99EC5449</color>
+    <color name="colorBlueDark">#9977B8EC</color>
+    <color name="colorSalmonDark">#99E17979</color>
+    <color name="colorTealDark">#9979CCC4</color>
+    <color name="colorPurpleDark">#99A2A2F6</color>
+</resources>
